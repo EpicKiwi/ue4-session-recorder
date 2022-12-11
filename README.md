@@ -1,5 +1,7 @@
 # UE4 Session Recorder
 
+> This projet is only the structure of a recorder but code can't be released for legal reasons
+
 > A Unreal Engine 4 plugin for flexible game session recording
 
 This plugin aim to allow flexible game recording at level scale.
